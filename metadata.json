@@ -1,0 +1,6 @@
+{
+  "name": "Penganalisis Keamanan Email",
+  "description": "Aplikasi analisis keamanan email siber untuk mendeteksi Phishing, Spam, atau Aman, menganalisis indikator kecurigaan dengan representasi aman, serta merancang draf balasan pelapor dan mengelola validasi karantina manual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
